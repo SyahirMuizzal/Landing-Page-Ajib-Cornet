@@ -9,7 +9,7 @@ export default function Footer() {
         {/* Brand Section */}
         <div>
           <h2 className="text-2xl font-extrabold drop-shadow-lg">
-            Cornet<span className="text-yellow-300">Sapi</span>
+            Menara<span className="text-yellow-300">Food</span>
           </h2>
           <p className="text-yellow-100 mt-3 max-w-sm">
             Cornet sapi premium dengan rasa original berkualitas tinggi.
@@ -66,7 +66,7 @@ export default function Footer() {
             <Link
               href="https://shopee.co.id/product/123456789/987654321/"
               target="_blank"
-              className="flex items-center gap-2 text-yellow-300 font-semibold underline hover:text-yellow-200 transition mt-3"
+              className="flex items-center gap-2 text-yellow-300 font-semibold hover:text-yellow-200 transition mt-3"
             >
               🛒 Beli di Shopee
             </Link>
